@@ -45,3 +45,16 @@ flowchart LR
     D --> E[채굴 시작]
     E --> F[수혜자 지갑으로 수익 송금]
 ```
+
+### 🖥️ 웹사이트 예시 화면  
+![웹사이트 예시](https://github.com/KISEHA-sound/DCU_Donation_Coin-mining/blob/main/DCUSW_2022/img/웹사이트예시.png?raw=true)
+
+### ⛏️ XMRig 기반 채굴 구조  
+![XMRig](https://github.com/KISEHA-sound/DCU_Donation_Coin-mining/blob/main/DCUSW_2022/img/XMRig.png?raw=true)
+
+### ⚙️ 프로그램 실행 전/후 비교  
+- 실행 전  
+![전](https://github.com/KISEHA-sound/DCU_Donation_Coin-mining/blob/main/DCUSW_2022/img/프로그램%20사용전.png?raw=true)
+
+- 실행 후  
+![후](https://github.com/KISEHA-sound/DCU_Donation_Coin-mining/blob/main/DCUSW_2022/img/프로그램%20사용후.png?raw=true)

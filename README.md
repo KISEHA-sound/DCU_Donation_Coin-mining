@@ -50,7 +50,7 @@ flowchart LR
 ![웹사이트 예시](https://github.com/KISEHA-sound/DCU_Donation_Coin-mining/blob/main/DCUSW_2022/img/웹사이트예시.png?raw=true)
 
 ### ⛏️ XMRig 기반 채굴 구조  
-![XMRig](https://github.com/KISEHA-sound/DCU_Donation_Coin-mining/blob/main/DCUSW_2022/img/XMRig.png?raw=true)
+![XMRig](https://github.com/KISEHA-sound/DCU_Donation_Coin-mining/blob/main/DCUSW_2022/img/donation프로그램.png?raw=true)
 
 ### ⚙️ 프로그램 실행 전/후 비교  
 - 실행 전  

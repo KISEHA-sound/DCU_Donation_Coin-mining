@@ -47,7 +47,8 @@ flowchart LR
 ```
 
 ### 🖥️ 웹사이트 예시 화면  
-![웹사이트 예시](https://github.com/KISEHA-sound/DCU_Donation_Coin-mining/blob/main/DCUSW_2022/img/웹사이트예시.png?raw=true)
+![웹사이트1](https://github.com/KISEHA-sound/DCU_Donation_Coin-mining/blob/main/DCUSW_2022/img/웹페이지1.png?raw=true)
+![웹사이트2](https://github.com/KISEHA-sound/DCU_Donation_Coin-mining/blob/main/DCUSW_2022/img/웹페이지2.png?raw=true)
 
 ### ⛏️ XMRig 기반 채굴 구조  
 ![XMRig](https://github.com/KISEHA-sound/DCU_Donation_Coin-mining/blob/main/DCUSW_2022/img/donation프로그램.png?raw=true)
